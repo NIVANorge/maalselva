@@ -22,8 +22,6 @@ TOTP,µg/l
 TOTP/F,µg/l P
 TOTP_P,µg/l P
 TSM,mg/l
-Temperatur,C
-Turbiditet,FNU
 UV-Abs. 254nm,Abs/cm
 UV-Abs. 285nm,Abs/cm
 UV-Abs. 365nm,Abs/cm
