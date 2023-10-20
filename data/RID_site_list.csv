@@ -1,0 +1,18 @@
+ProjectId,ProjectName,StationId,StationCode,StationName,Par_list,Region
+3321,RID - Bielver,40372,FINEPAS,Pasvikelva,TOC,N
+12564,Elveovervåkings hovedelver 2021-25,40358,FINEALT,Altaelva,TOC,N
+3321,RID - Bielver,40373,FINETAN,Tanaelva,TOC,N
+3320,RID- Hovedelver,40360,NOREVEF,Vefsna,TOC,NW
+3321,RID - Bielver,40377,NOREBEI,Beiarelva,TOC,NW
+3321,RID - Bielver,40378,NORERAN,Ranaelva,TOC,NW
+3321,RID - Bielver,40379,NORERØS,Røssåga,TOC,NW
+3321,RID - Bielver,40395,TROEMÅL,Målselv,TOC,NW
+3320,RID- Hovedelver,40357,STREORK,Orkla,TOC,CW
+3320,RID- Hovedelver,40374,HOREVOS,Vosso(Bolstadelvi),TOC,SW
+3320,RID- Hovedelver,40361,ROGEORR,Orreelva,TOC,SW
+3320,RID- Hovedelver,40354,VAGEOTR,Otra,TOC,S
+3320,RID- Hovedelver,40353,TELESKI,Skienselva,TOC,SE
+3320,RID- Hovedelver,40355,VESENUM,Numedalslågen,TOC,SE
+3320,RID- Hovedelver,40352,BUSEDRA,Drammenselva,TOC,SE
+3320,RID- Hovedelver,62167,OSLEALN,Alna,TOC,SE
+3320,RID- Hovedelver,40356,ØSTEGLO,Glomma ved Sarpsfoss,TOC,SE
