@@ -1,0 +1,31 @@
+parameter_name,unit
+Ca,mg/L
+Cl,mg/L
+DOC,mg/L C
+DOC,mg/l
+K,mg/L
+Konduktivitet,mS/m
+Mg,mg/L
+NH4-N,µg/l
+NO3+NO2-N,µg/l
+NO3-N,µg/l
+Na,mg/L
+Nitrogen part,µg/l N
+PO4-P,µg/l
+POC,µg/l C
+SO4,mg/L
+Si,mg/l
+SiO2,mg/l
+TOC,mg/l
+TOTN,µg/l
+TOTP,µg/l
+TOTP/F,µg/l P
+TOTP_P,µg/l P
+TSM,mg/l
+Temperatur,C
+Turbiditet,FNU
+UV-Abs. 254nm,Abs/cm
+UV-Abs. 285nm,Abs/cm
+UV-Abs. 365nm,Abs/cm
+UV-Abs. 410nm,Abs/cm
+pH,
